@@ -1,0 +1,26 @@
+name,category,price
+Margarita,Drinks,12.99
+Pina Colada,Drinks,11.99
+Premium Drink Package,Drinks,89.99
+Beer (Bucket of 5),Drinks,29.99
+Mocktail Sunrise,Drinks,8.99
+Specialty Steakhouse,Dining,49.99
+Sushi Omakase,Dining,65.0
+Room Service Burger,Dining,18.99
+Dinner for Two Package,Dining,99.0
+Afternoon High Tea,Dining,24.99
+Snorkeling Tour,Excursions,85.0
+Zip Line Adventure,Excursions,110.0
+City Bus Tour,Excursions,45.0
+Private Beach Day,Excursions,150.0
+Whale Watching,Excursions,95.0
+Karaoke Night Pass,Entertainment,15.0
+Comedy Show Ticket,Entertainment,25.0
+Escape Room,Entertainment,30.0
+Bingo Card Pack,Entertainment,5.0
+Casino Credits $50,Entertainment,50.0
+Hot Stone Massage,Spa,120.0
+Couples Massage,Spa,220.0
+Facial Treatment,Spa,90.0
+Manicure & Pedicure,Spa,65.0
+Sauna Day Pass,Spa,35.0
