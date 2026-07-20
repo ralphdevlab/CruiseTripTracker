@@ -355,4 +355,4 @@ Use the dropdown at the top to filter all stats and the bar chart by a specific 
 
 ---
 
-*Advanced Database Development — Valencia College*
+
